@@ -1,2 +1,3 @@
-# landing_page
-LANDING PAGE PLAN
+# Odin Project landing page
+# The images found in this page are from Alexandria University Website.
+    
