@@ -128,6 +128,7 @@ button{
 .Administrators{
     display: flex;
     justify-content: space-around;
+    gap: 10px;
    
 }
 
@@ -217,6 +218,9 @@ button{
     justify-content: center;
     align-items: center;
     color: #F9FAF8;
+
+    padding: 40px;
+    font-size: large;
 }
 
 
